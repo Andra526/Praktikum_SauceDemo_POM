@@ -15,7 +15,6 @@ def test_checkout_success(logged_in, inventory_page, cart_page, checkout_page):
     checkout_page.click_finish()
     assert checkout_page.get_complete_message() == "Thank you for your order!"
 
-
 @pytest.mark.negative
 def test_checkout_missing_first_name(logged_in, inventory_page, cart_page, checkout_page):
     inventory_page.add_backpack()
