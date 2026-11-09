@@ -6,7 +6,10 @@ Target aplikasi: https://www.saucedemo.com/
 ## Anggota Kelompok
 | No | Nama | NIM |
 |----|------|-----|
-| 1  | (isi) | (isi) |
+| 1  | (Andra setya ramadhani) | (24090003) |
+| 2  | (Naiya Resda Novalia
+) | (24090073) |
+| 3  | (Lazuardi Augian Pratama) | (24090029) |
 
 ## Struktur Folder
 ```
